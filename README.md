@@ -1,2 +1,2 @@
 # CheapCam
-System that makes cams cheaper and more customizable
+## Или же как сделать камеры видеонаблюдения через 5 костылей, зато дешево и где угодно
